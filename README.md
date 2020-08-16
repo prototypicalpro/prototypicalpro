@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-My name is Noah Koontz, and I am a maker who enjoys the creative application of technology.
+My name is Noah Koontz, and I am a maker who enjoys the creative application of technology. A bit about me:
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -31,7 +31,7 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-success?style=flat-square&logo=travis-ci&logoColor=ffffff)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff) 
 
-## ⚙️ Projects
+### ⚙️ Projects
 
 [![Hours Badge](https://img.shields.io/badge/dynamic/json?color=success&label=hours&query=totalHoursByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
 [![Commits Badge](https://img.shields.io/badge/dynamic/json?color=success&label=commits&query=totalCommitsByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
@@ -48,7 +48,7 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 [![SleepyNet](https://img.shields.io/badge/%E2%8F%B0-SleepyNet-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SleepyNet)
 [![BearSSL Certificate API](https://img.shields.io/badge/%F0%9F%93%83-BearSSLCertHelper-black?style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace/tree/master/getcertificate)
 
-## 📟 Contact
+### 📟 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-noah@koontzs.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noah@koontzs.com)](mailto:noah@koontzs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-prototypicalpro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prototypicalpro/)](https://www.linkedin.com/in/prototypicalpro/)
