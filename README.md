@@ -48,7 +48,7 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 [![SleepyNet](https://img.shields.io/badge/%E2%8F%B0-SleepyNet-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SleepyNet)
 [![BearSSL Certificate API](https://img.shields.io/badge/%F0%9F%93%83-BearSSLCertHelper-black?style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace/tree/master/getcertificate)
 
-### 📟 Contact
+### 📱 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-noah@koontzs.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noah@koontzs.com)](mailto:noah@koontzs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-prototypicalpro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prototypicalpro/)](https://www.linkedin.com/in/prototypicalpro/)
