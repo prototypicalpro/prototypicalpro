@@ -2,6 +2,23 @@
 
 My name is Noah Koontz, and I am a maker who enjoys the creative application of technology. A bit about me:
 
+### ⚙️ Projects
+
+[![Hours Badge](https://img.shields.io/badge/dynamic/json?color=success&label=hours&query=totalHoursByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
+[![Commits Badge](https://img.shields.io/badge/dynamic/json?color=success&label=commits&query=totalCommitsByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
+
+[![Repolinter Action](https://img.shields.io/badge/%E2%9C%85-RepolinterAction-black?style=flat-square)](https://github.com/newrelic/repolinter-action)
+[![SSLClient](https://img.shields.io/badge/%F0%9F%94%92-SSLClient-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SSLClient)
+[![SlideSentinel](https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F-SlideSentinel-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SlideSentinel)
+[![FeatherFault](https://img.shields.io/badge/%F0%9F%94%AC-FeatherFault-black?style=flat-square)](https://github.com/OPEnSLab-OSU/FeatherFault)
+[![FeatherTrace](https://img.shields.io/badge/%F0%9F%93%9C-FeatherTrace-black?style=flat-square)](https://github.com/OPEnSLab-OSU/FeatherTrace)
+[![AzureSpherePlantMonitor](https://img.shields.io/badge/%F0%9F%8C%B1-AzureSpherePlantMonitor-black?style=flat-square)](https://github.com/prototypicalpro/AzureSpherePlantMonitor)
+[![PersonalSite](https://img.shields.io/badge/%F0%9F%8C%8A-PersonalSite-black?style=flat-square)](https://github.com/prototypicalpro/PersonalSite)
+[![CDKPixelTracker](https://img.shields.io/badge/%F0%9F%93%A1-CDKPixelTracker-black?style=flat-square)](https://github.com/prototypicalpro/cdk-pixel-tracker)
+[![Loom](https://img.shields.io/badge/%F0%9F%A7%B5-Loom-black?style=flat-square)](https://github.com/OPEnSLab-OSU/Loom)
+[![SleepyNet](https://img.shields.io/badge/%E2%8F%B0-SleepyNet-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SleepyNet)
+[![BearSSL Certificate API](https://img.shields.io/badge/%F0%9F%93%83-BearSSLCertHelper-black?style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace/tree/master/getcertificate)
+
 ### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,23 +47,6 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAVCAYAAADxaDaPAAAACXBIWXMAAAsSAAALEgHS3X78AAAB0ElEQVRYw+1Y7VGDQBB9m0kBlBArkBKwg9gBHSRWYDpgrCBaAVoBsYLQAVgBdPD8kYuDmwM2F52RjG/mfhxzu+zu7ccDwQhIRgBit61FpMYPgWQSopdkDCAaklN2lyLSWpVHJNckK56iIpm6cxnJorNSj65CrZjkhmTj0bsMkNt3ggiSqXumkbugDUe1x2mNo1FdbDz66DG2D8mAXDNiT0pyO3Km6Q2Ac7xhOCzO92EfKHcuGlcSmKkayV0taZQAdm79Fp6M5462jNVwn70RgFTf0LonSomnH2wvvPmc5KJbp0a5VNnRjNnssvnk/fpllbk+DufzQOcrY9PV2HrOZEYb9GUVX2nvbmGh01BEygH7HgLT+yVQ7s34zJfqH2q/6Nb8wiPwOmSJm68hPSC0b5jmtIhY9H9z3qekNCipMWHMLpRvr9L5UTZ0QHwNzvvSd2ng/MnknXfNS9f4qjuLPcgwccwGGFYE4ORj4EhyTljSBDHvdPdnko9q7MUA9iR3AN4B3LpUj3AFmKv9PYDC41wy9foe7fZutt8ZR1jp6ROTvnmISEnyBsAawMqTBa2jvhuSmQpUbWB0Vm5gkWuNjNHLRuWMX0YA0BqZ3z/+Oj4BaADQtowJhMIAAAAASUVORK5CYII=)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-success?style=flat-square&logo=travis-ci&logoColor=ffffff)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff) 
-
-### ⚙️ Projects
-
-[![Hours Badge](https://img.shields.io/badge/dynamic/json?color=success&label=hours&query=totalHoursByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
-[![Commits Badge](https://img.shields.io/badge/dynamic/json?color=success&label=commits&query=totalCommitsByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
-
-[![Repolinter Action](https://img.shields.io/badge/%E2%9C%85-RepolinterAction-black?style=flat-square)](https://github.com/newrelic/repolinter-action)
-[![SSLClient](https://img.shields.io/badge/%F0%9F%94%92-SSLClient-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SSLClient)
-[![SlideSentinel](https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F-SlideSentinel-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SlideSentinel)
-[![FeatherFault](https://img.shields.io/badge/%F0%9F%94%AC-FeatherFault-black?style=flat-square)](https://github.com/OPEnSLab-OSU/FeatherFault)
-[![FeatherTrace](https://img.shields.io/badge/%F0%9F%93%9C-FeatherTrace-black?style=flat-square)](https://github.com/OPEnSLab-OSU/FeatherTrace)
-[![AzureSpherePlantMonitor](https://img.shields.io/badge/%F0%9F%8C%B1-AzureSpherePlantMonitor-black?style=flat-square)](https://github.com/prototypicalpro/AzureSpherePlantMonitor)
-[![PersonalSite](https://img.shields.io/badge/%F0%9F%8C%8A-PersonalSite-black?style=flat-square)](https://github.com/prototypicalpro/PersonalSite)
-[![CDKPixelTracker](https://img.shields.io/badge/%F0%9F%93%A1-CDKPixelTracker-black?style=flat-square)](https://github.com/prototypicalpro/cdk-pixel-tracker)
-[![Loom](https://img.shields.io/badge/%F0%9F%A7%B5-Loom-black?style=flat-square)](https://github.com/OPEnSLab-OSU/Loom)
-[![SleepyNet](https://img.shields.io/badge/%E2%8F%B0-SleepyNet-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SleepyNet)
-[![BearSSL Certificate API](https://img.shields.io/badge/%F0%9F%93%83-BearSSLCertHelper-black?style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace/tree/master/getcertificate)
 
 ### 📱 Contact
 
