@@ -4,8 +4,8 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 
 ### ⚙️ Projects
 
-[![Hours Badge](https://img.shields.io/badge/dynamic/json?color=success&label=hours&query=totalHoursByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
 [![Commits Badge](https://img.shields.io/badge/dynamic/json?color=success&label=commits&query=totalCommitsByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
+[![Hours Badge](https://img.shields.io/badge/dynamic/json?color=success&label=hours&query=totalHoursByMe&url=https%3A%2F%2Fapi.prototypical.pro%2Fgithubcount&style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace)
 
 [![Repolinter Action](https://img.shields.io/badge/%E2%9C%85-RepolinterAction-black?style=flat-square)](https://github.com/newrelic/repolinter-action)
 [![SSLClient](https://img.shields.io/badge/%F0%9F%94%92-SSLClient-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SSLClient)
