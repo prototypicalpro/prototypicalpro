@@ -19,7 +19,7 @@ jobs:
           path: .github/actions/compile-badges
       
       - name: Compile Badges
-        uses: .github/actions/compile-badges
+        uses: ./.github/actions/compile-badges
         with:
           output_markdown_file: README-compiled.md
 
