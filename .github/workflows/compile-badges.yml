@@ -26,5 +26,5 @@ jobs:
       - name: Push To Master
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_mesage: Compile README
-          file-pattern: README-compiled.md
+          commit_message: Compile README
+          file_pattern: README-compiled.md
