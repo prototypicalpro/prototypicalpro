@@ -1,0 +1,31 @@
+name: Compile Badges
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  compile-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Checkout Action
+        uses: actions/checkout@v2
+        with:
+          repository: prototypicalpro/compile-badges-action
+          path: .github/actions/compile-badges
+      
+      - name: Compile Badges
+        uses: ./.github/actions/compile-badges
+        with:
+          input_markdown_file: README.src.md
+          output_markdown_file: README.md
+
+      - name: Push To Master
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Compile README
+          file_pattern: README.md readme/*
