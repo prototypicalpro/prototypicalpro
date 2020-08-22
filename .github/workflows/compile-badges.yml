@@ -1,0 +1,25 @@
+name: 'Compile Badges'
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  repolinter-action:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      
+      - name: Compile Badges
+        uses: prototypicalpro/compile-badges@v1
+        with:
+          input_markdown_file: README.src.md
+          output_markdown_file: README.md
+      
+      - name: Push To Master
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Compile README
+          file_pattern: README.md readme/*
