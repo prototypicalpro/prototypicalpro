@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-<!-- This project precompiles badges from img.shields.io to save bandwidth using compile-badges-action. The original source is located in README.src.md -->
+<!-- This project precompiles badges from img.shields.io to save bandwidth using compile-badges-action. The original source is located in README.src.md. -->
 
 My name is Noah Koontz, and I am a maker who enjoys the creative application of technology. A bit about me:
 
