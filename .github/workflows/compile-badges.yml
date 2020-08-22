@@ -3,7 +3,7 @@ name: 'Compile Badges'
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   repolinter-action:
