@@ -19,6 +19,7 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 [![AzureSpherePlantMonitor](https://img.shields.io/badge/%F0%9F%8C%B1-AzureSpherePlantMonitor-black?style=flat-square)](https://github.com/prototypicalpro/AzureSpherePlantMonitor)
 [![PersonalSite](https://img.shields.io/badge/%F0%9F%8C%8A-PersonalSite-black?style=flat-square)](https://github.com/prototypicalpro/PersonalSite)
 [![CDKPixelTracker](https://img.shields.io/badge/%F0%9F%93%A1-CDKPixelTracker-black?style=flat-square)](https://github.com/prototypicalpro/cdk-pixel-tracker)
+[![Compile Badges Action](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-CompileBadgesAction-black?style=flat-square)](https://github.com/prototypicalpro/compile-badges-action)
 [![Loom](https://img.shields.io/badge/%F0%9F%A7%B5-Loom-black?style=flat-square)](https://github.com/OPEnSLab-OSU/Loom)
 [![SleepyNet](https://img.shields.io/badge/%E2%8F%B0-SleepyNet-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SleepyNet)
 [![BearSSL Certificate API](https://img.shields.io/badge/%F0%9F%93%83-BearSSLCertHelper-black?style=flat-square)](https://github.com/prototypicalpro/LambdaWorkspace/tree/master/getcertificate)
