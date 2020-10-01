@@ -11,6 +11,7 @@ My name is Noah Koontz, and I am a maker who enjoys the creative application of 
 ![Pixel Tracker](https://track.prototypical.pro?source=github&repo=profile)
 
 <!-- badge-compile -->
+[![Repolinter](https://img.shields.io/badge/%E2%9C%A8-Repolinter-black?style=flat-square)](https://github.com/todogroup/repolinter)
 [![Repolinter Action](https://img.shields.io/badge/%E2%9C%85-RepolinterAction-black?style=flat-square)](https://github.com/newrelic/repolinter-action)
 [![SSLClient](https://img.shields.io/badge/%F0%9F%94%92-SSLClient-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SSLClient)
 [![SlideSentinel](https://img.shields.io/badge/%E2%9B%B0%EF%B8%8F-SlideSentinel-black?style=flat-square)](https://github.com/OPEnSLab-OSU/SlideSentinel)
